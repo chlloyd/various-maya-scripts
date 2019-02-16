@@ -7,4 +7,4 @@ Copy the scripts to the script editor in Maya or add to a custom shelve.
 Converts basic maya phong shaders to arnold shaders. 
 
  ## mayadeletehistory.py
-Freezes transformationa and deletes history of all items selected. 
+Freezes transformations and deletes history of all items selected. 
