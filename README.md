@@ -8,3 +8,6 @@ Converts basic maya phong shaders to arnold shaders.
 
  ## mayadeletehistory.py
 Freezes transformations and deletes history of all items selected. 
+
+ ## centrePivot.py
+Centres the pivot point of all selected mesh. 
